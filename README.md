@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 Computer Engineering @ Universitas Indonesia  
 - 💻 Interested in **Fullstack Web Development & Game Development**  
-- 🌱 Currently learning **C++, Java, and Algorithm**  
+- 🌱 Currently learning **Object-Oriented Programming and Data Structure & Algorithm**  
 - 📫 Reach me at **naufalrahman867@gmail.com**  
 - ⚡ Fun fact: I love learning new thing, building side projects, and solving coding challenges!  
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/naufal-rahman-8078b1330/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/blaugranaufal?igsh=MTRtNW56ampmYTdscA==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:naufalrahman867@gmail.com">
